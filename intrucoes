@@ -1,0 +1,10 @@
+instalando python
+
+sudo nano .bashrc
+alterar arquivo com alias python=python3
+source .bashrc
+
+
+pip é o gerenciador de pacotes do python
+pip --version
+sudo apt-get install python3-pip
